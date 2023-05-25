@@ -1,2 +1,3 @@
 # Manuel8051.github.io
-puto el que lo lea
+creado con fines comicos
+derechos reservados a Larry Katula
